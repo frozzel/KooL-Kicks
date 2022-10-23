@@ -25,13 +25,14 @@
   
   
 ![Screen Shots](./images/Screen%20Shot%202022-10-20%20at%208.30.37%20PM.png)
-![Screen Shots2](./assets/images/YOURIMAGE2.png)
+![Screen Shots2](./images/Screen%20Shot%202022-10-23%20at%206.00.56%20PM.png)
+![Screen Shots2](./images/Screen%20Shot%202022-10-23%20at%206.02.09%20PM.png)
 
   ## Resources
 
   [DBSchema Schema Builder](https://dbschema.com)
 
-  [Site name add more Links](https://sampleapis.com/api-list/coffee)
+  
 
   
   ## License
