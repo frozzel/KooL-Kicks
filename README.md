@@ -21,7 +21,7 @@
   ## Usage
   [Vist Our Site](https://github.com/frozzel/KooL-Kicks)
 
-  [Video](https://github.com/frozzel/KooL-Kicks)
+  [Video](https://youtu.be/O1qExY5LJto)
   
   
 ![Screen Shots](./images/Screen%20Shot%202022-10-20%20at%208.30.37%20PM.png)
